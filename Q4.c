@@ -2,7 +2,7 @@
 int main()
 {
     int choice;
-    float radius;
+    float radius,PI;
     printf("Enter radius: ");
     scanf("%f",&radius);
 
